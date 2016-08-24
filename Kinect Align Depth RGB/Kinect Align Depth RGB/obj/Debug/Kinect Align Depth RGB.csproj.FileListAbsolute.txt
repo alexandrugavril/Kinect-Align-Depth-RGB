@@ -1,1 +1,0 @@
-c:\users\alexandru gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\bin\Debug\Kinect Align Depth RGB.exe.config
