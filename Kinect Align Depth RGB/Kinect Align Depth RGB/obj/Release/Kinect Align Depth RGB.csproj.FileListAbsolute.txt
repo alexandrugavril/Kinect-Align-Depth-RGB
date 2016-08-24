@@ -1,0 +1,16 @@
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\bin\Release\Kinect Align Depth RGB.exe.config
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\bin\Release\Kinect Align Depth RGB.exe
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\bin\Release\Kinect Align Depth RGB.pdb
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\bin\Release\Microsoft.Kinect.dll
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\bin\Release\Microsoft.Kinect.xml
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\Kinect Align Depth RGB.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\MainWindow.g.cs
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\App.g.cs
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\Kinect Align Depth RGB_MarkupCompile.cache
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\Kinect Align Depth RGB_MarkupCompile.lref
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\MainWindow.baml
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\Kinect Align Depth RGB.g.resources
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\Kinect_Align_Depth_RGB.Properties.Resources.resources
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\Kinect Align Depth RGB.csproj.GenerateResource.Cache
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\Kinect Align Depth RGB.exe
+C:\Users\Alexandru Gavril\documents\visual studio 2015\Projects\Kinect Align Depth RGB\Kinect Align Depth RGB\obj\Release\Kinect Align Depth RGB.pdb
